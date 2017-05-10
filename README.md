@@ -1,2 +1,2 @@
-#Capstoneproject
-my capstone project  
+#Capstoneproject/ Happy plant Project
+
